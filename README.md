@@ -4,5 +4,5 @@ I am an enthusiast Programmer who is passionate about creating interesting proje
 
 My main domain of intrest is Artificial Intelligence,Data Science,Machine Learning,Computer Networking
 
-My tech stack consists of Python,C/C++/C#,Java,JavaScript,Mysql
+My tech stack consists of Python,C/C++,Java,JavaScript,Mysql
 
