@@ -1,6 +1,1 @@
-Hello Everyone I'm Aditya Vaish Currently Pursuing my Undergraduate in ICT with a Minors Degree in Computational Science
-
-I am an enthusiast Programmer who is passionate about creating interesting projects my main domain of interest is Quant Trading and Algo Trading
-
-My tech stack consists of Python,C/C++,Java,JavaScript,Mysql
-
+Hello, I’m Aditya Vaish, currently pursuing my undergraduate degree in Information and Communication Technology (ICT) with a minor in Computational Science. I am a passionate programmer with a strong interest in creating innovative projects, particularly in the fields of quantitative trading and algorithmic trading. My tech stack includes Python, C/C++, Java, JavaScript, and MySQL, which I leverage to build efficient and scalable solutions and interesting projects. I am always eager to learn and explore new technologies to further expand my skillset and contribute to impactful projects.
