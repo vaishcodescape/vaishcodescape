@@ -2,14 +2,13 @@
 
 🎓 **Undergraduate Student in ICT**  
 📚 **With a Minor's degree in Computational Science**  
-💻 **I'm a Programmer**
-👾 **But sometimes I 🥷🏻Hack Systems as well**
+💻 **I'm a Programmer by Choice but 💸 Entrepreneur by Passion**
 ---
 
 ### About Me 🥷🏻:
 
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
-- 🚀 My current focus areas of interest are  **Ethical Hacking**,**Penetration Testing**,**Cryptography**,**Software Development**,**Computer Networking**
+- 🚀 My current focus areas of interest are **Software Development**,**API Development**,**Web/App Development**,**Ethical Hacking and Penetration Testing**
 - 🧰 I work with a diverse tech stack:  
   **Languages**: Python, C/C++, Java, JavaScript<br> 
   **Database**: MySQL<br>
@@ -19,7 +18,7 @@
 
 ### Let's Connect !
 
-- 🌐 [LinkedIn](#)  
+- 🌐 [LinkedIn](#)
 - ✉️ Email: adityavaish846@gmail.com  
 ---
 
