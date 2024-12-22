@@ -14,7 +14,7 @@
   **Languages**: Python, C/C++, Java, JavaScript<br> 
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
-  **Penetration Testing Operating Systems**: Kali linux,Parrot Security OS<br>
+  **Penetration Testing Operating Systems**: Kali linux,Parrot Security<br>
 ---
 
 ### Let's Connect !
