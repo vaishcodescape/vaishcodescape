@@ -2,18 +2,17 @@
 
 🎓 **Undergraduate Student in ICT**  
 📚 **With a Minor's degree in Computational Science**  
-💻 **I'm a Programmer by Choice but 💸 Entrepreneur by Passion**
+💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
 
 ### About Me 🥷🏻:
 
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
-- 🚀 My current focus areas of interest are **Software Development**,**API Development**,**Web/App Development**,**Ethical Hacking and Penetration Testing**
+- 🚀 My current focus areas of interest are **Software Development**,**Full Stack Development**,**Algo Trading**,**Block Chain Technology**
 - 🧰 I work with a diverse tech stack:  
   **Languages**: Python, C/C++, Java, JavaScript<br> 
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
-  **Penetration Testing Operating Systems**: Kali Linux<br>
 ---
 
 ### Let's Connect !
