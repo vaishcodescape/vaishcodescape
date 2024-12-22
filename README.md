@@ -1,6 +1,50 @@
-## Hello There ! 👋
-<br><marquee style:background-color:blue>"Keep Coding"</marquee>
-Hello, I’m Aditya Vaish, currently pursuing my undergraduate degree in Information and Communication Technology (ICT) with a minor in Computational Science.
-I am a passionate programmer with a strong interest in creating innovative projects, I am quite interested in the fields of quantitative trading and algorithmic trading as well as Penetration Testing and Ethical Hacking.
-My tech stack includes Python, C/C++, Java, JavaScript, and MySQL, which I leverage to build efficient and scalable solutions and interesting projects.
-I am always eager to learn and explore new technologies to further expand my skillset and contribute to impactful projects
+# Hi there, I'm Aditya Vaish! 👋
+
+🎓 **Undergraduate Student in ICT**  
+📚 **With a Minor's degree in Computational Science**  
+💻 **I'm a Programmer & Developer**
+
+
+---
+
+### About Me
+
+- 🌟 I am an enthusiastic programmer with a passion for solving problems and building exciting projects.
+- 🚀 My current focus areas of interest are **Penetration Testing**, **Ethical Hacking**, and **Quantitative & Algorithmic Trading**.
+- 🧰 I work with a diverse tech stack:  
+  **Languages**: Python, C/C++, Java, JavaScript  
+  **Database**: MySQL
+  **Scripting Languages**: Bash
+
+---
+
+### What I’m Working On
+- 🛠 Exploring ways to enhance security through ethical hacking and breaking and patching up systems.
+- 🌱 Strengthening my foundation in **Data Structures and Algorithms**.
+- 💡 Creating 
+
+---
+
+### Future Goals
+- 💻 Develop impactful software projects while in college.  
+- 🚀 Build a **startup** during my academic journey.  
+- 🌐 Gain expertise in **Cybersecurity** and **Quantitative Trading**.
+
+---
+
+### Let's Connect!
+
+- 🌐 [LinkedIn](#)  
+- ✉️ Email: adityavaish@example.com  
+- 📂 [Portfolio](#) (Coming Soon!)
+
+---
+
+### Besides Tech
+- 🏋️‍♂️ I enjoy going to the gym.  
+- 
+- 🎨 
+
+---
+
+Thanks for stopping by! 😊 Feel free to explore my repositories and drop a message if you'd like to collaborate!
