@@ -13,7 +13,7 @@
   **Languages**: Python, C/C++, Java, JavaScript<br> 
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
-  **Penetration Testing Operating Systems**: Kali linux<br>
+  **Penetration Testing Operating Systems**: Kali Linux<br>
 ---
 
 ### Let's Connect !
