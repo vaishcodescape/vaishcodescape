@@ -2,49 +2,30 @@
 
 🎓 **Undergraduate Student in ICT**  
 📚 **With a Minor's degree in Computational Science**  
-💻 **I'm a Programmer & Developer**
-
-
+💻 **I'm a Programmer**
+👾 **But sometimes I like to Break Systems as well**
 ---
 
 ### About Me
 
-- 🌟 I am an enthusiastic programmer with a passion for solving problems and building exciting projects.
+- 🌟 I am an enthusiastic programmer for solving problems and building mind blowing projects.
 - 🚀 My current focus areas of interest are **Penetration Testing**, **Ethical Hacking**, and **Quantitative & Algorithmic Trading**.
 - 🧰 I work with a diverse tech stack:  
-  **Languages**: Python, C/C++, Java, JavaScript  
-  **Database**: MySQL
+  **Languages**: Python, C/C++, Java, JavaScript<br> 
+  **Database**: MySQL<br>
+
   **Scripting Languages**: Bash
-
----
-
-### What I’m Working On
-- 🛠 Exploring ways to enhance security through ethical hacking and breaking and patching up systems.
-- 🌱 Strengthening my foundation in **Data Structures and Algorithms**.
-- 💡 Creating 
-
----
-
-### Future Goals
-- 💻 Develop impactful software projects while in college.  
-- 🚀 Build a **startup** during my academic journey.  
-- 🌐 Gain expertise in **Cybersecurity** and **Quantitative Trading**.
-
 ---
 
 ### Let's Connect!
 
 - 🌐 [LinkedIn](#)  
-- ✉️ Email: adityavaish@example.com  
-- 📂 [Portfolio](#) (Coming Soon!)
-
+- ✉️ Email: adityavaish846@gmail.com  
 ---
 
-### Besides Tech
-- 🏋️‍♂️ I enjoy going to the gym.  
-- 
-- 🎨 
-
+### Besides Tech 👨🏻‍💻
+- I enjoy hitting the gym.  
+- I also own a Online Dropshipping Business 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and drop a message if you'd like to collaborate!
+Thanks for stopping by! Feel free to explore my repositories and drop a message if you'd like to collaborate!
