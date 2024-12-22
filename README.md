@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Vaish! 👋
+## Hi there, I'm Aditya Vaish! 👋
 
 🎓 **Undergraduate Student in ICT**  
 📚 **With a Minor's degree in Computational Science**  
