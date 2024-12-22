@@ -3,7 +3,7 @@
 🎓 **Undergraduate Student in ICT**  
 📚 **With a Minor's degree in Computational Science**  
 💻 **I'm a Programmer**
-👾 **But sometimes I like to 🥷🏻Break Systems as well**
+👾 **But sometimes I 🥷🏻Hack Systems as well**
 ---
 
 ### About Me 🥷🏻:
