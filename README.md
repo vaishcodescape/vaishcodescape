@@ -8,8 +8,8 @@
 ### About Me 🥷🏻:
 
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
-- 🚀 My current focus areas of interest are **Software Development**,**Full Stack Development**,**Algo Trading**,**Block Chain Technology**
-- 🧰 I work with a diverse tech stack:  
+- 🚀 My current focus areas of interest are **Software Development**,**Full Stack Development**,**Algo Trading**,**Block Chain and NFT's Programming**
+- 🧰 I work with a diverse tech stack:   
   **Languages**: Python, C/C++, Java, JavaScript<br> 
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
@@ -23,6 +23,6 @@
 
 ### Besides Tech 🤓:
 - 💪🏻 I enjoy hitting the gym.  
-- 💰 I also own a Online Dropshipping Business 
+- 💰 I also own a Online Dropshipping Business 💵
 ---
 Thanks for stopping by! Feel free to explore my repositories and drop a message if you'd like to collaborate!
