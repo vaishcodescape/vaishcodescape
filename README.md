@@ -18,7 +18,7 @@
 
 ### Let's Connect !
 
-- 🌐 [LinkedIn](#)
+- 🌐 [LinkedIn](#)https://www.linkedin.com/in/aditya-vaish-370494243/
 - ✉️ Email: adityavaish846@gmail.com  
 ---
 
