@@ -26,7 +26,6 @@
 
 ### Besides Tech 🤓:
 - 💪🏻 I enjoy hitting the gym.  
-- 💰 I also own a Online Dropshipping Business 💵
-- I also aim to build my own startup within Tech 
+- I also aim to build my own startup within Tech
 ---
 Thanks for stopping by! Feel free to explore my repositories and drop a message if you'd like to collaborate!
