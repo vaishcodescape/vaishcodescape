@@ -12,8 +12,7 @@
   
 - 🧰 I work with a diverse tech stack:   
   **Languages**: Python, C/C++, Java, HTML/CSS , JavaScript<br>
-  **Python Libraries->**<br>
-  **API/Web Development**: Django,Flask,FastAPI<br>
+  **Python Libraries**: Django,Flask,FastAPI
   **Javascript Frameworks**:
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
