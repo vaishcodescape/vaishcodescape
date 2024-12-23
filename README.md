@@ -11,7 +11,9 @@
 - 🚀 My current focus areas of interest are **Software Development**,**Full Stack Development**,**App/Web Development**
   
 - 🧰 I work with a diverse tech stack:   
-  **Languages**: Python, C/C++, Java, HTML/CSS , JavaScript<br> 
+  **Languages**: Python, C/C++, Java, HTML/CSS , JavaScript<br>
+  **Python Libraries** :Django,Flask,FastAPI
+  **Javascript Frameworks**:
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
 ---
