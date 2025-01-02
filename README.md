@@ -8,7 +8,7 @@
 ### About Me 🥷🏻:
 
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
-- 🚀 My current focus areas of interest are **Full Stack Development**,**DSA**,**Open Source Contribution**,**A.I/M.L**
+- 🚀 My current focus areas of interest are **Full Stack Development**,**DSA/Competitive Programming**,**Open Source Contribution**,**A.I/M.L**
 - 🧰 I work with a diverse tech stack:   
   **Languages**: Python, C/C++, Java, HTML/CSS , JavaScript<br>
   **Python Libraries**: Django,Flask,FastAPI <br>
