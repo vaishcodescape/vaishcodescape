@@ -9,7 +9,7 @@
 - 🧰 I work with a diverse tech stack:   
   **Languages**: Python, C/C++, Java, HTML/CSS , JavaScript<br>
   **Python Libraries**: Django,Flask,FastAPI <br>
-  **Javascript Frameworks**: <br>
+  **JavaScript Frameworks**: <br>
   **Database**: MySQL<br>
   **Scripting Languages**: Bash<br>
 ---
