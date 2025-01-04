@@ -1,7 +1,4 @@
 ## Hi there, I'm Vaishcodescape! 👋
-
-🎓 **Undergraduate Student in ICT**  
-📚 **With a Minor's degree in Computational Science**  
 💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
 
