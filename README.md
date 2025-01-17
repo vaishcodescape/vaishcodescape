@@ -12,7 +12,7 @@
   Web Dev:Django,Flask,FastAPI <br><br>
   **JavaScript Frameworks**: <br>
   **Database**: MySQL,MongoDB<br>
-  **Scripting Languages**: Bash<br>
+  **Scripting Languages**: Bash/Shell<br>
 ---
 
 ### Let's Connect !
