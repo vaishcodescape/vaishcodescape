@@ -1,11 +1,11 @@
 ## Hi there, I'm Vaishcodescape! 👋
 💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
-
-### About Me 🥷🏻:
+### About Me :
 "The Quieter you become the more you are able to hear"
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
-- 🚀 My current focus areas of interest are **Full Stack Development**,**DSA/Competitive Programming**,**Open Source Contribution**,**A.I/M.L**
+- 🚀 My current focus areas of interest are **Full Stack Development**,**DSA/Competitive Programming**,**A.I/M.L**
+- 🥷🏻 Besides Dev/CP I am interested in **Cyber Security/Penetration Testing and Ethical Hacking**
 - 🧰 I work with a diverse tech stack:   
   **Languages**:C/C++,Python,JavaScript,Java<br>
   **Python Libraries**:<br>
