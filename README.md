@@ -3,7 +3,7 @@
 ---
 
 ### About Me 🥷🏻:
-"The Quieter you are the more you are able to hear"
+"The Quieter you become the more you are able to hear"
 - 🌟 I am an enthusiastic programmer who solves problems and builds mind blowing projects.
 - 🚀 My current focus areas of interest are **Full Stack Development**,**DSA/Competitive Programming**,**Open Source Contribution**,**A.I/M.L**
 - 🧰 I work with a diverse tech stack:   
