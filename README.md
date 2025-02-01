@@ -7,6 +7,9 @@
 - 🥷🏻 Besides Dev/CP I am interested in **Cyber Security/Penetration Testing and Ethical Hacking**
 - 🧰 I work with a diverse tech stack:   
   **Languages**:Python,C/C++,Java,JavaScript<br>
+  ![Python](https://img.shields.io/badge/Python-3.9-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
   **Python Libraries**:<br>
   Web Dev:Django,Flask,FastAPI <br><br>
   **JavaScript Frameworks**:<br>
