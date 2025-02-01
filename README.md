@@ -1,4 +1,4 @@
-fix this code <h1 align="center">
+<h1 align="center">
   <a href="https://www.linkedin.com/in/aditya-vaish-370494243/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Hacker&size=25&pause=1000&color=3CF721&multiline=true&width=435&lines=Hello+There%2C+I'm+Aditya+Vaish" alt="Typing SVG" />
   </a>
