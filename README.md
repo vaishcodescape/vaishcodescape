@@ -1,5 +1,5 @@
-## Hi there, I'm Aditya Vaish! 👋
-![Typing GIF](https://yourgifurl.com)
+## Hi there, I'm Aditya Vaish! 👋 ![Waving](https://media.giphy.com/media/yourgifurl)
+
 💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
 ### About Me :
