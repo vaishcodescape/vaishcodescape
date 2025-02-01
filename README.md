@@ -4,9 +4,7 @@
   </a>
 </h1>
 <h2 align="center" style="text-align: center; color: turquoise;">
-  <u>
   I'm a Programmer by Choice but an Entrepreneur by Passion
-    </u>
 </h2>
 <br>
 
