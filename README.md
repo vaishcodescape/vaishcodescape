@@ -1,4 +1,4 @@
-## Hi there, I'm Aditya Vaish! 👋 ![Waving](https://media.giphy.com/media/yourgifurl)
+## Hi there, I'm Aditya Vaish! 👋
 
 💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
