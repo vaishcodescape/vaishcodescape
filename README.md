@@ -1,22 +1,5 @@
+#Hello There, I'm Aditya Vaish
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/)
-
-## <p align="center">
-  <span style="font-size: 2.5em; animation: fadeInUp 2s ease-in-out;">I'm a Programmer by Choice But an Entrepreneur by Passion</span>
-</p>
-
-<style>
-  @keyframes fadeInUp {
-    0% {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
-
 🔧 **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, React, Redux  
 - **Backend:** Node.js, Express.js  
