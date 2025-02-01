@@ -1,5 +1,20 @@
-# Hello there, I'm Aditya Vaish 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish/)
+# <p align="center">
+  <span style="font-size: 2.5em; animation: fadeInUp 2s ease-in-out;">Hello there, I'm Aditya Vaish</span>
+</p>
+
+<style>
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/)
 
 ## I'm a Programmer by Choice But an Entrepreneur by Passion
 
