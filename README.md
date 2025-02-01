@@ -9,7 +9,7 @@
   **Languages**:Python,C/C++,JavaScript<br>
   **Python Libraries**:<br>
   Web Dev:Django,Flask,FastAPI <br><br>
-  **JavaScript Frameworks**: <br>
+  **JavaScript Frameworks**:<br>
   **Database**: MySQL,MongoDB<br>
   **Scripting Languages**: Bash/Shell<br>
 ---
