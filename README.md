@@ -1,4 +1,8 @@
-# Hello There, I'm **Aditya Vaish** 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hacker&pause=1000&color=3CF721&multiline=true&width=435&lines=Hello+There%2C+I'm+Aditya+Vaish" alt="Typing SVG" />
+  </a>
+</h1>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) <br>
 
 🚀 **Tech Stack**:
@@ -34,11 +38,3 @@ I'm always open to new projects, collaborations, and ideas. Feel free to reach o
 
 ## 📊 **Most Used Languages**
 ![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=radical)
-
----
-
-## 💥 **Animated Header Section**  
-
-[![Animated Header](https://github.com/vaishcodescape/vaishcodescape/blob/main/assets/header_animation.gif)](https://github.com/vaishcodescape)
-
----
