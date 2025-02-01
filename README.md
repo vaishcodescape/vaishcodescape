@@ -3,11 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Hacker&size=25&pause=1000&color=3CF721&multiline=true&width=435&lines=Hello+There%2C+I'm+Aditya+Vaish" alt="Typing SVG" />
   </a>
 </h1>
+
 ---
-#I'm a Programmer by Choice and Entrepreneur by Passion
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) <br>
-
+#I'm a Programmer by Choice but and Entrepreneur by Passion
 🚀 **Tech Stack**:
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express.js  
