@@ -27,4 +27,4 @@ I'm always open to new projects, collaborations, and ideas. Feel free to reach o
 ---
 
 ## 📈 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-vaish&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
