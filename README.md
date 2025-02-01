@@ -1,4 +1,5 @@
-## Hi there, I'm Vaishcodescape! 👋
+## Hi there, I'm Aditya Vaish! 👋
+![Typing GIF](https://yourgifurl.com)
 💻 **I'm a Programmer by Choice but an Entrepreneur By Passion**
 ---
 ### About Me :
