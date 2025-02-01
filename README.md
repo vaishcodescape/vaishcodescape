@@ -1,5 +1,7 @@
-# <p align="center">
-  <span style="font-size: 2.5em; animation: fadeInUp 2s ease-in-out;">Hello there, I'm Aditya Vaish</span>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/)
+
+## <p align="center">
+  <span style="font-size: 2.5em; animation: fadeInUp 2s ease-in-out;">I'm a Programmer by Choice But an Entrepreneur by Passion</span>
 </p>
 
 <style>
@@ -14,15 +16,13 @@
     }
   }
 </style>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/)
-
-## I'm a Programmer by Choice But an Entrepreneur by Passion
 
 🔧 **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, React, Redux  
 - **Backend:** Node.js, Express.js  
 - **Languages:** Python, C/C++, Java  
 - **Database:** MongoDB, MySQL 
+
 ---
 
 ## 🔧 Skills
