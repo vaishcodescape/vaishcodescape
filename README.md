@@ -6,7 +6,7 @@
 - 🚀 My current focus areas of interest are **Full Stack Development**,**DSA/Competitive Programming**,**A.I/M.L**
 - 🥷🏻 Besides Dev/CP I am interested in **Cyber Security/Penetration Testing and Ethical Hacking**
 - 🧰 I work with a diverse tech stack:   
-  **Languages**:Python,C/C++,JavaScript<br>
+  **Languages**:Python,C/C++,Java,JavaScript<br>
   **Python Libraries**:<br>
   Web Dev:Django,Flask,FastAPI <br><br>
   **JavaScript Frameworks**:<br>
