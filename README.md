@@ -1,9 +1,9 @@
 # Hello There, I'm Aditya Vaish
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) <br>
 🔧 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React, Redux  
+- **Frontend:** HTML, CSS, JavaScript, React   
 - **Backend:** Node.js, Express.js  
-- **Languages:** Python, C/C++, Java  
+- **Languages:** Python, C/C++, JavaScript 
 - **Database:** MongoDB, MySQL 
 
 ---
