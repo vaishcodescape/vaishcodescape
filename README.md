@@ -5,7 +5,7 @@
   </a>
 </h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=I'm+a+Programmer+by+Choice;but+an+Entrepreneur+by+Passion" alt="Blinking Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=Programmer+by+Choice;Entrepreneur+by+Passion" alt="Blinking Animation">
 </h2>
 
 <div align="center">
