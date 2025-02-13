@@ -9,12 +9,24 @@
   I'm a Programmer by Choice but an Entrepreneur by Passion
 </h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vaishcodescape/count.svg?"  />
+</div>
+
+
+<br clear="both">
+
+<p align="center">Number of Viewers</p>
+
 ---
 
 ### 🔗 **Follow Me on LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/)
-
----
+<a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
+</a>
+<a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 
 ## 🚀 **Tech Stack**
 - **Frontend:** HTML, CSS, JavaScript, React  
