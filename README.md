@@ -4,11 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Hacker&size=25&pause=1000&color=3CF721&multiline=true&width=435&lines=Hello+There%2C+I'm+Aditya+Vaish" alt="Typing SVG" />
   </a>
 </h1>
-
- <h2 align="center">
-  <marquee behavior="scroll" direction="left" style="color: turquoise; font-size: 20px;">
-    I'm a Programmer by Choice but an Entrepreneur by Passion
-  </marquee>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=I'm+a+Programmer+by+Choice;but+an+Entrepreneur+by+Passion" alt="Blinking Animation">
 </h2>
 
 <div align="center">
