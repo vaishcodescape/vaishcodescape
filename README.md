@@ -9,7 +9,9 @@
 </h2>
 <br>
 
-Follow Me --> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) <br>
+Follow Me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Vaish-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) <br>
+
 🚀 **Tech Stack**:
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express.js  
