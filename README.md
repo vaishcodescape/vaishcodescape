@@ -5,18 +5,20 @@
   </a>
 </h1>
 
-<h2 align="center" style="color: turquoise;">
-  I'm a Programmer by Choice but an Entrepreneur by Passion
+ <h2 align="center">
+  <marquee behavior="scroll" direction="left" style="color: turquoise; font-size: 20px;">
+    I'm a Programmer by Choice but an Entrepreneur by Passion
+  </marquee>
 </h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vaishcodescape/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/vaishcodescape/count.svg?"/>
 </div>
 
 
 <br clear="both">
 
-<p align="center">Number of Viewers</p>
+<p align="center"><b>Number of Viewers</b></p>
 
 ---
 
