@@ -82,8 +82,5 @@ I'm always open to new projects, collaborations, and ideas. Feel free to reach o
 ## 📈 **GitHub Stats**
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=radical)
 
-## 📊 **Activity Radar**
-![GitHub Activity Radar](activity.png)
-
 ## 📊 **Most Used Languages**
 ![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=radical)
