@@ -66,14 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
 </div>
 
-### 📱 Cross-Platform App Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron.js" />
-  <div>Native</div>
-</div>
-
 ## 💬 **Let's Connect!**
 I'm always open to new projects, collaborations, and ideas. Feel free to reach out to me via:
 
