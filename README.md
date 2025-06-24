@@ -19,52 +19,19 @@
 
 ---
 
+## 📈 **GitHub Stats**
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=radical)
+
+## 📊 **Most Used Languages**
+![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=radical)
+---
 ### 🔗 **Follow Me**  
 <a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
 </a><br>
-
-
-## 🚀 **Tech Stack**
-### 👨‍💻 Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
- </div>
-
-### 🧩 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-</div>
-
-### 🛠️ Backend & Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-    <img width="12" />
-  <img src= "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-</div>
 
 ## 💬 **Let's Connect!**
 I'm always open to new projects, collaborations, and ideas. Feel free to reach out to me via:
 
 - [📌 LinkedIn](https://www.linkedin.com/in/aditya-vaish-370494243/)  
 - 📧 [Email](mailto:adityavaish846@gmail.com)
-
----
-
-## 📈 **GitHub Stats**
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=radical)
-
-## 📊 **Most Used Languages**
-![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=radical)
