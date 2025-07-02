@@ -20,11 +20,10 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=radical)
-## **Github Streaks**
- [![GitHub Streak](https://streak-stats.demolab.com?user=vaishcodescape&theme=dark&ring=FFD700&fire=FF4500&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=react)
+ 
 ## 📊 **Most Used Languages**
-![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=radical)
+![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=react)
 ---
 ### 🔗 **Follow Me**  
 <a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
