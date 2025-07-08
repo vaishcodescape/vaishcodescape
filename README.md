@@ -7,16 +7,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=Programmer+by+Choice;Entrepreneur+by+Passion" alt="Blinking Animation">
 </h2>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vaishcodescape/count.svg?"/>
-</div>
-
-
-<br clear="both">
-
-<p align="center"><b>Number of Viewers</b></p>
-
 ---
 
 ## 📈 **GitHub Stats**
