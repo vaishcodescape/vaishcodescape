@@ -7,7 +7,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=Programmer+by+Choice;Entrepreneur+by+Passion" alt="Blinking Animation">
 </h2>
----
 
 ## 📈 **GitHub Stats**
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishcodescape&show_icons=true&count_private=true&theme=react)
