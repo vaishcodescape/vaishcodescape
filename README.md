@@ -1,20 +1,16 @@
-<!-- Personal Readme Profile for GitHub -->
-<h1 align="center">
-  <a href="https://www.linkedin.com/in/aditya-vaish-370494243/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hacker&size=25&pause=1000&color=3CF721&multiline=true&width=435&lines=Hello+There%2C+I'm+Aditya+Vaish" alt="Typing SVG" />
-  </a>
-</h1>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=A+Programmer+by+Choice;A+Entrepreneur+by+Passion" alt="Blinking Animation">
-</h2>
+## Hello! There I'm Aditya Vaish
+I code in Python but have different Tech Stacks in my arsenal.
+- Check out my website
 
-### **Follow Me**  
-<a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
-</a><br>
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vaish-370494243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaish846@gmail.com) 
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaishcodescape&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💬 **Let's Connect!**
-I'm always open to new projects, collaborations, and ideas. Feel free to reach out to me via:
+### 🔝 Open Source Contributions
+![](https://github-contributor-stats.vercel.app/api?username=vaishcodescape&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [📌 LinkedIn](https://www.linkedin.com/in/aditya-vaish-370494243/)  
-- 📧 [Email](mailto:adityavaish846@gmail.com)
+---
+[![](https://visitcount.itsvg.in/api?id=vaishcodescape&icon=0&color=0)](https://visitcount.itsvg.in)
