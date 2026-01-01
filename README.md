@@ -1,17 +1,13 @@
-## Hello! There I'm Aditya Vaish
+# Hello there! I’m **Aditya Vaish** 👋
+I’m an open-source dev who loves contributing to cool repos — sometimes fixing bugs, sometimes *creating exciting new ones by accident*. It’s all part of the ecosystem 😄<br><br>My go to language is **Python 🐍**, but I occasionally wander into other tech stacks like a curious engineer pressing buttons to see what happens  and somehow, things still work.<br><br>From **CI/CD pipelines to Agentic A.I workflows**, I basically connect dots that didn’t even know they were supposed to be connected.<br>
 
-I turn coffee into code and code into SAAS <br>
- Check out my **[website](https://portfolio-vaishcodescape.vercel.app)**
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vaish-370494243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaish846@gmail.com) 
+## Connect With Me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/setto_codescape_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vaish-370494243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaish846@gmail.com) 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishcodescape&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Open Source Contributions
-![](https://github-contributor-stats.vercel.app/api?username=vaishcodescape&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=vaishcodescape&icon=0&color=0)](https://visitcount.itsvg.in)
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaishcodescape&limit=5&theme=gotham&combine_all_yearly_contributions=true)
