@@ -1,5 +1,6 @@
 ## Hello! There I'm Aditya Vaish
 I code in Python but have different Tech Stacks in my arsenal.
+I write code which is then contributed to Open Source.
 - Check out my website
 
 ##  Socials:
