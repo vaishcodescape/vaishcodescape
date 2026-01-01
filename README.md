@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=40E0D0&center=true&width=600&height=60&lines=A+Programmer+by+Choice;A+Entrepreneur+by+Passion" alt="Blinking Animation">
 </h2>
 
-## **GitHub Streak**
-![Aditya's GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=vaishcodescape&theme=meta-dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats))
- 
-## **Most Used Languages**
-![Aditya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&layout=compact&theme=react)
----
 ### **Follow Me**  
 <a href="https://www.linkedin.com/in/aditya-vaish-370494243/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
