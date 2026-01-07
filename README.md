@@ -8,7 +8,3 @@ I’m an open source dev who loves contributing to cool repos  sometimes fixing 
 ![](https://github-readme-stats.vercel.app/api?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishcodescape&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishcodescape&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaishcodescape&limit=5&theme=gotham&combine_all_yearly_contributions=true)
