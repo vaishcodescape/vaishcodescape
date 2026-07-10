@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="210" viewBox="0 0 680 210" role="img" aria-label="Language familiarity">
+  <rect x="1" y="1" width="678" height="208" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8b949e">~/skills  ::  language familiarity</text>
+  <line x1="20" y1="40" x2="660" y2="40" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Python 100% -->
+  <text x="28" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">Python</text>
+  <rect x="150" y="56" width="500" height="20" rx="4" fill="#21262d"/>
+  <rect x="150" y="56" width="0" height="20" rx="4" fill="#3fb950">
+    <animate attributeName="width" from="0" to="500" dur="1.4s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- TypeScript ~89% -->
+  <text x="28" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">TypeScript</text>
+  <rect x="150" y="88" width="500" height="20" rx="4" fill="#21262d"/>
+  <rect x="150" y="88" width="0" height="20" rx="4" fill="#3fb950">
+    <animate attributeName="width" from="0" to="445" dur="1.4s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="1.65s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- JavaScript ~71% -->
+  <text x="28" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">JavaScript</text>
+  <rect x="150" y="120" width="500" height="20" rx="4" fill="#21262d"/>
+  <rect x="150" y="120" width="0" height="20" rx="4" fill="#3fb950">
+    <animate attributeName="width" from="0" to="355" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Rust ~43% -->
+  <text x="28" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">Rust</text>
+  <rect x="150" y="152" width="500" height="20" rx="4" fill="#21262d"/>
+  <rect x="150" y="152" width="0" height="20" rx="4" fill="#3fb950">
+    <animate attributeName="width" from="0" to="215" dur="1.4s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="1.95s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- C / C++ ~75% -->
+  <text x="28" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">C / C++</text>
+  <rect x="150" y="184" width="500" height="20" rx="4" fill="#21262d"/>
+  <rect x="150" y="184" width="0" height="20" rx="4" fill="#3fb950">
+    <animate attributeName="width" from="0" to="375" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
