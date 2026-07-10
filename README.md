@@ -13,20 +13,31 @@
 
 ```
 ╭─┤ ~/profile ├──────────────────────────────────────────────────────╮
+│                                                                    │
 │   ── skills ──────────────────────────────────────────────────     │
+│                                                                    │
 │   Python      ████████████████████████                             │
 │   TypeScript  █████████████████████░░░                             │
 │   JavaScript  █████████████████░░░░░░░                             │
 │   Rust        ██████████░░░░░░░░░░░░░░                             │
 │   C / C++     ██████████████████░░░░░░                             │
+│                                                                    │
 │   ── experience.log ──────────────────────────────────────────     │
+│                                                                    │
 │   * present  GDG Team Lead · DAIICT · workshops & OSS              │
+│                                                                    │
 │   * Jul'26   Core Code Reviewer @ Datacurve.ai (YC W24)            │
+│                                                                    │
 │   * Aug'25   Product Engineer Intern @ KwezyHQ                     │
+│                                                                    │
 │   * Apr'25   Product Engineer Intern @ Superr.ai                   │
+│                                                                    │
 │   ── trophies.log ────────────────────────────────────────────     │
+│                                                                    │
 │   * IIM-A CTDP '25  ·  dyslexia detection via CV                   │
+│                                                                    │
 │   * IIM-A IMRC '25  ·  XGBoost agri price forecasting              │
+│                                                                    │
 ╰────────────────────────────────────────────────────────────────────╯
 ```
 
