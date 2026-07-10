@@ -1,15 +1,14 @@
-<div align="left">
+### Aditya Vaish · open source developer
 
-<h3><samp>Aditya Vaish · open source developer</samp></h3>
+role        Software Engineer  
 
-<samp>role</samp> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br/>
-<samp>community</samp> &nbsp;&nbsp; Team Lead @ GDG · DAIICT · @ossdaiict<br/>
-<samp>education</samp> &nbsp;&nbsp; B.Tech ICT @ DAIICT · class of '28<br/>
-<samp>focus</samp> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI agents · ML · developer tooling<br/><br/>
+community    Team Lead @ GDG · DAIICT · @ossdaiict  
 
-<samp>$ status &gt; Building...</samp>
+education    B.Tech ICT @ DAIICT · class of '28  
 
-</div>
+focus        AI agents · machine learning · developer tooling  
+
+$ status > Building...
 
 ```
 ╭─┤ ~/profile ├──────────────────────────────────────────────────────╮
@@ -43,4 +42,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/aditya-vaish-370494243/) · [Discord](https://discord.com/users/setto_codescape_08) · [Email](mailto:adityavaish846@gmail.com) · [GitHub](https://github.com/vaishcodescape)
 
-<samp>$ echo "thanks for scrolling — now go build something awesome"</samp> **▮**
+$ echo "thanks for scrolling — now go build something awesome" **▮**
