@@ -1,4 +1,96 @@
-𝙸’𝚖 𝚊𝚗 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚍𝚎𝚟 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚘𝚕 𝚛𝚎𝚙𝚘𝚜  𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 𝚏𝚒𝚡𝚒𝚗𝚐 𝚋𝚞𝚐𝚜, 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 *𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚘𝚗𝚎𝚜 𝚋𝚢 𝚊𝚌𝚌𝚒𝚍𝚎𝚗𝚝*.  
-## Connect With Me:
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.com/users/setto_codescape_08)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vaish-370494243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavaish846@gmail.com) 
+```
+╭─┤ whoami ├─────────────────────────────────────────────────────────╮
+│                                                                    │
+│   Aditya Vaish  ·  open source developer                           │
+│                                                                    │
+│   > role        Software Engineer                                  │
+│   > community   Team Lead @ GDG on Campus · DAIICT · @ossdaiict    │
+│   > education   B.Tech ICT @ DAIICT  ·  class of '28               │
+│   > focus       AI agents · machine learning · developer tooling   │
+│                                                                    │
+│   $ status  >  Building...                                         │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+## `>` skills
+
+<p>
+  <img src="./assets/skills.svg" alt="Language familiarity" width="680" />
+</p>
+
+---
+
+## `>` experience
+
+```
+╭─┤ experience.log  ::  git log --oneline ├──────────────────────────╮
+│                                                                    │
+│   *  present   Team Lead @ GDG on Campus · DAIICT                  │
+│   │            workshops · OSS contributions · community platforms │
+│   │                                                                │
+│   *  July'26  Core Code Reviewer & OSS Dev @ Datacurve.ai (YC W24) │
+│   │            agent eval infra · sandboxing · Shipd.ai platform   │
+│   │                                                                │
+│   *  August'25 Product Engineer Intern @ KwezyHQ                   │
+│   │            CV/OCR pipeline · AWS EC2 · CI/CD for production    │
+│   │                                                                │
+│   *  April'25  Product Engineer Intern @ Superr.ai                 │
+│   │            LLM education features · backend services           │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+## `>` open source
+
+```
+╭─┤ contribs.log  ::  shipped upstream ├─────────────────────────────╮
+│                                                                    │
+│   *  SurfSense (13.9k★)                                            │
+│   │  fixed backend security vuln in chat-routes  ·  PR #370        │
+│   │                                                                │
+│   *  Superset (YC)                                                 │
+│   │  Slack integration reliability · safe JSON / 400s  ·  PR #4145 │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+## `>` featured builds
+
+```
+╭─┤ ~/builds  ::  ls -la ├───────────────────────────────────────────╮
+│                                                                    │
+│   data-spear/                                                      │
+│   │  agentic DB assistant · RAG · pgvector · PostgreSQL            │
+│   │  → github.com/vaishcodescape/data-spear                        │
+│   │                                                                │
+│   shipd-agent/                                                     │
+│   │  autonomous review agent · LangGraph · Playwright · Anthropic  │
+│   │  → github.com/vaishcodescape/shipd-agent                       │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+[data-spear](https://github.com/vaishcodescape/data-spear) · [shipd-agent](https://github.com/vaishcodescape/shipd-agent)
+
+## `>` achievements
+
+```
+╭─┤ trophies.log ├───────────────────────────────────────────────────╮
+│                                                                    │
+│   *  IIM Ahmedabad CTDP 2025  ·  AI Accessibility                  │
+│   │  dyslexia detection via fine-tuned CV · top accessibility      │
+│   │                                                                │
+│   *  IIM Ahmedabad IMRC 2025  ·  ML Forecasting                    │
+│   │  XGBoost agri price prediction on government datasets          │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+## `>` stats
+
+## `>` connect
+
+[LinkedIn](https://www.linkedin.com/in/aditya-vaish-370494243/)  [Discord](https://discord.com/users/setto_codescape_08)  [Email](mailto:adityavaish846@gmail.com)  [GitHub](https://github.com/vaishcodescape)
+
+`$ echo "thanks for scrolling — now go build something awesome"` **▮**
