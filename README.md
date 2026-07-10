@@ -1,11 +1,15 @@
-## Aditya Vaish · open source developer
+<div align="left">
 
-**role** Software Engineer  
-**community** Team Lead @ GDG · DAIICT · @ossdaiict  
-**education** B.Tech ICT @ DAIICT · class of '28  
-**focus** AI agents · ML · developer tooling  
+<h3><samp>Aditya Vaish · open source developer</samp></h3>
 
-`$ status > Building...`
+<samp>role</samp> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br/>
+<samp>community</samp> &nbsp;&nbsp; Team Lead @ GDG · DAIICT · @ossdaiict<br/>
+<samp>education</samp> &nbsp;&nbsp; B.Tech ICT @ DAIICT · class of '28<br/>
+<samp>focus</samp> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI agents · ML · developer tooling<br/><br/>
+
+<samp>$ status &gt; Building...</samp>
+
+</div>
 
 ```
 ╭─┤ ~/profile ├──────────────────────────────────────────────────────╮
@@ -28,6 +32,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/aditya-vaish-370494243/) · [Discord](https://discord.com/users/setto_codescape_08) · [Email](mailto:adityavaish846@gmail.com) · [GitHub](https://github.com/vaishcodescape)
 
-`$ echo "thanks for scrolling — now go build something awesome"` **▮**
-
-<p align="center"><img src="./assets/cube.gif" alt="rotating cube" width="180" /></p>
+<samp>$ echo "thanks for scrolling — now go build something awesome"</samp> **▮**
