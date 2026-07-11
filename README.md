@@ -1,10 +1,6 @@
 ### Aditya Vaish · open source developer
 
-role        Software Engineer  
-
 community    Team Lead @ GDG · DAIICT · @ossdaiict  
-
-education    B.Tech ICT @ DAIICT · class of '28  
 
 focus        AI agents · machine learning · developer tooling  
 
