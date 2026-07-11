@@ -2,6 +2,8 @@
 
 community    Team Lead @ GDG · DAIICT · @ossdaiict  
 
+`//`  *Every line of code I write is just ~~$money~~  **creativity** in disguise*
+
 focus        AI agents · machine learning · developer tooling  
 
 $ status > Building...
